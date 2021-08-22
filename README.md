@@ -18,30 +18,34 @@ Java Swing
 ## Output
 
 ### Home Frame:
-![Home](./Images/home.PNG)
+![Home](./Images/home-frame.PNG)
  <br />
 
+### About Frame:
+![About](./Images/about-frame.PNG)
+<br />
+
 ### Register Frame:
-![Register](./Images/register.PNG)
+![Register](./Images/register-frame.PNG)
 <br />
 
 ### Login Frame:
-![Login](./Images/login.PNG)
+![Login](./Images/login-frame.PNG)
 <br />
 
 ### Booking Frame:
-![Booking](./Images/booking.PNG)
+![Booking](./Images/booking-frame.PNG)
 <br />
 
 ### Booking Details Frame:
 #### Room Details Tab:
-![Room Details](./Images/room-details.PNG)
+![Room Details](./Images/room-details-tab.PNG)
 <br />
 
 #### Customer Details Tab:
-![Customer Details](./Images/customer-details.PNG)
+![Customer Details](./Images/customer-details-tab.PNG)
 <br />
 
 #### Order Summary Tab:
-![Order Summary](./Images/order-summary.PNG)
+![Order Summary](./Images/order-summary-tab.PNG)
 <br />
