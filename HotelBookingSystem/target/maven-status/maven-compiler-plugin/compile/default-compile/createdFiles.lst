@@ -1,0 +1,7 @@
+com\hotelbooking\core\Init.class
+com\hotelbooking\frames\Booking.class
+com\hotelbooking\frames\Home.class
+com\hotelbooking\frames\Login.class
+com\hotelbooking\frames\Register.class
+com\hotelbooking\frames\About.class
+com\hotelbooking\frames\BookingDetails.class
